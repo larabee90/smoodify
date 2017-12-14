@@ -1,0 +1,2 @@
+# smoodify
+Randomly generated playlists
